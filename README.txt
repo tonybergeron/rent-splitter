@@ -1,5 +1,8 @@
+NOTICE: HAVENT DELETED THIS YET< ACTUAL PROJECT IS IN ANOTHER GITHUB PRIVATE GIT
+
 Authors
 	Anthony Bergeron
+	Alex Thaler
 
 Description
 	What is it?
